@@ -1,5 +1,4 @@
-#Coursera_Capstone
-Capstone Project IBM Data Science
+<h1>Capstone Project IBM Data Science </h1> 
 
 This repo is used for the capstone project for IBM Applied Data Science Capstone course on Coursera.
 
